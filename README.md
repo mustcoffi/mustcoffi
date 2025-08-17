@@ -1,4 +1,4 @@
-# Merhaba, ben Mustafa 👋
+# Hello I'm mustcoffi
 
 ![GitHub followers](https://img.shields.io/github/followers/mustcoffi?style=social) 
 ![GitHub stars](https://img.shields.io/github/stars/mustcoffi?style=social)
@@ -7,9 +7,9 @@
 
 ---
 
-## 💻 Hakkımda
-- 🌱 Şu anda öğreniyorum: [C, git]
-- 👯 İş birliği yapmak istediğim alanlar: Açık kaynak projeler, web geliştirme, veri bilimi
+## 💻 About Me
+- 🌱 Learning: [C, git]
+- 👯 
 - 📫 Bana ulaş: [[LinkedIn](https://www.linkedin.com/in/mustafa-k-86515337b)]
 
 ---
