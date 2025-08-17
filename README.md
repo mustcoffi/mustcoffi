@@ -9,7 +9,7 @@
 
 ## 💻 About Me
 - 🌱 Learning: [C, git]
-- 👯 
+- 👯 Loves Open Source Software
 - 📫 [[LinkedIn](https://www.linkedin.com/in/mustafa-k-86515337b)]
 
 ---
