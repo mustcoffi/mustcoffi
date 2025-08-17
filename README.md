@@ -3,8 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/mustcoffi?style=social) 
 ![GitHub stars](https://img.shields.io/github/stars/mustcoffi?style=social)
 
-Ben bir yazılım geliştiricisiyim ve açık kaynak projelere katkıda bulunmayı severim.  
-Kod yazmak, öğrenmek ve paylaşmak benim için tutku. 🚀
+
 
 ---
 
@@ -23,15 +22,14 @@ Kod yazmak, öğrenmek ve paylaşmak benim için tutku. 🚀
 
 ---
 
-## 🌟 Projelerim
-- [Projelerim için bir bağlantı veya kısa açıklama](https://github.com/mustcoffi?tab=repositories)
+## 🌟 Projects
+- [Repos](https://github.com/mustcoffi?tab=repositories)
 
 
 ---
 
-## 📊 GitHub İstatistiklerim
+## 📊 My Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mustcoffi&show_icons=true&hide_border=true&theme=radical)
 
 ---
 
-“Her zaman öğrenmeye ve gelişmeye açığım.” 🌱
