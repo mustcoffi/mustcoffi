@@ -1,7 +1,7 @@
-# Merhaba, ben [Adın] 👋
+# Merhaba, ben Mustafa 👋
 
-![GitHub followers](https://img.shields.io/github/followers/[KullanıcıAdın]?style=social) 
-![GitHub stars](https://img.shields.io/github/stars/[KullanıcıAdın]?style=social)
+![GitHub followers](https://img.shields.io/github/followers/mustcoffi?style=social) 
+![GitHub stars](https://img.shields.io/github/stars/mustcoffi?style=social)
 
 Ben bir yazılım geliştiricisiyim ve açık kaynak projelere katkıda bulunmayı severim.  
 Kod yazmak, öğrenmek ve paylaşmak benim için tutku. 🚀
