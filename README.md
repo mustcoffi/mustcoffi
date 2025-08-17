@@ -10,14 +10,10 @@
 ## 💻 About Me
 - 🌱 Learning: [C, git]
 - 👯 
-- 📫 Bana ulaş: [[LinkedIn](https://www.linkedin.com/in/mustafa-k-86515337b)]
+- 📫 [[LinkedIn](https://www.linkedin.com/in/mustafa-k-86515337b)]
 
 ---
 
-## 🛠️ Teknolojiler & Araçlar
-| Diller | Araçlar & Frameworkler |
-| ------ | -------------------- |
-| Python | Git, Docker, VSCode |
 
 
 ---
